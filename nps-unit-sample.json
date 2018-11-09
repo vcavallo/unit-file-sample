@@ -1,367 +1,367 @@
-{
-  "name": "Acadia National Park",
-  "params": [
-    "visibility": {
-      "summariesByYear": [
-        {
-          "year": 2000,
-          "conditionStatus": "Warrants Moderate Concern",
-          "conditionTrend": "Relatively Unchanged",
-          "conditionConfidence": "High Confidence",
-          "conditionSummaryCombined": "concern-unchanging-high",
-          "benchmarkChartYAxisLabel": "Haze Index, dv",
-          "benchmarkChartValue": 11.5,
-          "benchmarkChartConcern": 15,
-          "benchmarkChartAverage": 12,
-          "benchmarkChartGood": 9,
-          "benchmarkChartColor": "Yellow",
-          "rationaleCondition": "Visibility warrants moderate concern at Acadia NP. This status is based on <a href='https://www.nps.gov/subjects/air/analysis-methods.htm'>NPS Air Resources Division benchmarks</a> and the 2011–2015 estimated visibility on mid-range days of 11.6 deciviews (dv), which is 4.4 dv above the estimated natural condition of 7.2 dv.",
-          "rationaleTrend": "For 2006–2015, the trend in visibility at Acadia NP improved on the 20% clearest and 20% haziest days, resulting in an overall improving visibility trend (IMPROVE Monitor ID: ACAD1, ME). The Clean Air Act visibility goal requires visibility improvement on the 20% haziest days, with no degradation on the 20% clearest days.",
-          "rationaleConfidence": "The degree of confidence at Acadia NP is is high because there is an on-site or nearby visibility monitor."
-        },
-        {
-          "year": 2001,
-          "conditionStatus": "Warrants Moderate Concern",
-          "conditionTrend": "Relatively Unchanged",
-          "conditionConfidence": "High Confidence",
-          "conditionSummaryCombined": "concern-unchanging-high",
-          "benchmarkChartYAxisLabel": "Haze Index, dv",
-          "benchmarkChartValue": 11.5,
-          "benchmarkChartConcern": 15,
-          "benchmarkChartAverage": 12,
-          "benchmarkChartGood": 9,
-          "benchmarkChartColor": "Yellow",
-          "rationaleCondition": "Visibility warrants moderate concern at Acadia NP. This status is based on <a href='https://www.nps.gov/subjects/air/analysis-methods.htm'>NPS Air Resources Division benchmarks</a> and the 2011–2015 estimated visibility on mid-range days of 11.6 deciviews (dv), which is 4.4 dv above the estimated natural condition of 7.2 dv.",
-          "rationaleTrend": "For 2006–2015, the trend in visibility at Acadia NP improved on the 20% clearest and 20% haziest days, resulting in an overall improving visibility trend (IMPROVE Monitor ID: ACAD1, ME). The Clean Air Act visibility goal requires visibility improvement on the 20% haziest days, with no degradation on the 20% clearest days.",
-          "rationaleConfidence": "The degree of confidence at Acadia NP is is high because there is an on-site or nearby visibility monitor."
-        },
-        {
-          "year": 2002,
-          "conditionStatus": "Warrants Moderate Concern",
-          "conditionTrend": "Relatively Unchanged",
-          "conditionConfidence": "High Confidence",
-          "conditionSummaryCombined": "concern-unchanging-high",
-          "benchmarkChartYAxisLabel": "Haze Index, dv",
-          "benchmarkChartValue": 11.5,
-          "benchmarkChartConcern": 15,
-          "benchmarkChartAverage": 12,
-          "benchmarkChartGood": 9,
-          "benchmarkChartColor": "Yellow",
-          "rationaleCondition": "Visibility warrants moderate concern at Acadia NP. This status is based on <a href='https://www.nps.gov/subjects/air/analysis-methods.htm'>NPS Air Resources Division benchmarks</a> and the 2011–2015 estimated visibility on mid-range days of 11.6 deciviews (dv), which is 4.4 dv above the estimated natural condition of 7.2 dv.",
-          "rationaleTrend": "For 2006–2015, the trend in visibility at Acadia NP improved on the 20% clearest and 20% haziest days, resulting in an overall improving visibility trend (IMPROVE Monitor ID: ACAD1, ME). The Clean Air Act visibility goal requires visibility improvement on the 20% haziest days, with no degradation on the 20% clearest days.",
-          "rationaleConfidence": "The degree of confidence at Acadia NP is is high because there is an on-site or nearby visibility monitor."
-        }
-      ],
-      "monitoringSites": [
-        {
-          "name":"IMPROVE: ACAD1",
-          "trendCharts": [
-            {
-              "name":"Visbility on Haziest and Clearest Days",
-              "yAxisLabel": "Haze Index, dv",
-              "variableLines": [
-                {
-                  "label": "Clearest Days",
-                  "annualValues": [
-                    {
-                      "year": 2000,
-                      "value": 8.0
-                    },
-                    {
-                      "year": 2001,
-                      "value": 8.1
-                    },
-                    {
-                      "year": 2002,
-                      "value": 8.2
-                    },
-                    {
-                      "year": 2003,
-                      "value": 8.3
-                    },
-                    {
-                      "year": 2004,
-                      "value": 9.0
-                    },
-                    {
-                      "year": 2005,
-                      "value": 10.5
-                    }
-                  ]
-                },
-                {
-                  "label": "Haziest Days",
-                  "annualValues": [
-                    {
-                      "year": 2000,
-                      "value": 8.0
-                    },
-                    {
-                      "year": 2001,
-                      "value": 8.1
-                    },
-                    {
-                      "year": 2002,
-                      "value": 8.2
-                    },
-                    {
-                      "year": 2003,
-                      "value": 8.3
-                    },
-                    {
-                      "year": 2004,
-                      "value": 9.0
-                    },
-                    {
-                      "year": 2005,
-                      "value": 10.5
-                    }
-                  ]
-                }
-              ],
-              "trendLines": [
-                {
-                  "year": 2000,
-                  "lines": [
-                    {
-                      "label": "Theil trend line slope = -0.18 dv/yr significant trend",
-                      "slope": -0.18,
-                      "pvalue": 0.05
-                    },
-                    {
-                      "label": "Some other trend line",
-                      "slope": 2,
-                      "pvalue": 1
-                    }
-                  ]
-                },
-                {
-                  "year": 2001,
-                  "lines": [
-                    {
-                      "label": "Theil trend line slope = -0.5 dv/yr significant trend",
-                      "slope": -0.5,
-                      "pvalue": 0.2
-                    },
-                    {
-                      "label": "Some other trend line",
-                      "slope": 2,
-                      "pvalue": 1
-                    }
-                  ]
-                }
-              ],
-              "constantLines": [
-                {
-                  "label": "Natural Condition, Haziest Days",
-                  "value": 12
-                },
-                {
-                  "label": "Natural Condition, Clearest Days",
-                  "value": 5
-                }
-              ]
-            },
-            {
-              "name":"Visbility on Clearest Days",
-              "yAxisLabel": "Haze Index, dv",
-              "variableLines": [
-                {
-                  "label": "Clearest Days",
-                  "annualValues": [
-                    {
-                      "year": 2000,
-                      "value": 8.0
-                    },
-                    {
-                      "year": 2001,
-                      "value": 8.1
-                    },
-                    {
-                      "year": 2002,
-                      "value": 8.2
-                    },
-                    {
-                      "year": 2003,
-                      "value": 8.3
-                    },
-                    {
-                      "year": 2004,
-                      "value": 9.0
-                    },
-                    {
-                      "year": 2005,
-                      "value": 10.5
-                    }
-                  ]
-                }
-              ],
-              "trendLines": [
-                {
-                  "year": 2000,
-                  "lines": [
-                    {
-                      "label": "Theil trend line slope = -0.18 dv/yr significant trend",
-                      "slope": -0.18,
-                      "pvalue": 0.05
-                    },
-                    {
-                      "label": "Some other trend line",
-                      "slope": 2,
-                      "pvalue": 1
-                    }
-                  ]
-                },
-                {
-                  "year": 2001,
-                  "lines": [
-                    {
-                      "label": "Theil trend line slope = -0.5 dv/yr significant trend",
-                      "slope": -0.5,
-                      "pvalue": 0.2
-                    },
-                    {
-                      "label": "Some other trend line",
-                      "slope": 2,
-                      "pvalue": 1
-                    }
-                  ]
-                }
-              ],
-              "constantLines": [
-                {
-                  "label": "Natural Condition, Haziest Days",
-                  "value": 12
-                },
-                {
-                  "label": "Natural Condition, Clearest Days",
-                  "value": 5
-                }
-              ]
-            }
-          ],
-          "compositionCharts": [
-            {
-              "name": "Clearest Days by Year",
-              "yAxisLabel": "Light Extinction, 1/Mm",
-              "variableLines": [
-                {
-                  "label": "Coarse Mass",
-                  "annualValues": [
-                    {
-                      "year": 2000,
-                      "value": 10
-                    },
-                    {
-                      "year": 2001,
-                      "value": 11
-                    },
-                    {
-                      "year": 2002,
-                      "value": 15
-                    }
-                  ]
-                },
-                {
-                  "label": "Fine Sea Salt",
-                  "annualValues": [
-                    {
-                      "year": 2000,
-                      "value": 20
-                    },
-                    {
-                      "year": 2001,
-                      "value": 25
-                    },
-                    {
-                      "year": 2002,
-                      "value": 17
-                    }
-                  ]
-                },
-                {
-                  "label": "Fine Soil",
-                  "annualValues": [
-                    {
-                      "year": 2000,
-                      "value": 0.5
-                    },
-                    {
-                      "year": 2001,
-                      "value": 0.75
-                    },
-                    {
-                      "year": 2002,
-                      "value": 0.20
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Haziest Days by Year",
-              "yAxisLabel": "Light Extinction, 1/Mm",
-              "variableLines": [
-                {
-                  "label": "Coarse Mass",
-                  "annualValues": [
-                    {
-                      "year": 2000,
-                      "value": 10
-                    },
-                    {
-                      "year": 2001,
-                      "value": 11
-                    },
-                    {
-                      "year": 2002,
-                      "value": 15
-                    }
-                  ]
-                },
-                {
-                  "label": "Fine Sea Salt",
-                  "annualValues": [
-                    {
-                      "year": 2000,
-                      "value": 20
-                    },
-                    {
-                      "year": 2001,
-                      "value": 25
-                    },
-                    {
-                      "year": 2002,
-                      "value": 17
-                    }
-                  ]
-                },
-                {
-                  "label": "Fine Soil",
-                  "annualValues": [
-                    {
-                      "year": 2000,
-                      "value": 0.5
-                    },
-                    {
-                      "year": 2001,
-                      "value": 0.75
-                    },
-                    {
-                      "year": 2002,
-                      "value": 0.20
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "ozone": {
-    },
-    "sulfurDeposition": {
-    }
-  ]
-}
+  {
+    "name": "Acadia National Park",
+    "params": [
+      "visibility": {
+        "summariesByYear": [
+          {
+            "year": 2000,
+            "conditionStatus": "Warrants Moderate Concern",
+            "conditionTrend": "Relatively Unchanged",
+            "conditionConfidence": "High Confidence",
+            "conditionSummaryCombined": "concern-unchanging-high",
+            "benchmarkChartYAxisLabel": "Haze Index, dv",
+            "benchmarkChartValue": 11.5,
+            "benchmarkChartConcern": 15,
+            "benchmarkChartAverage": 12,
+            "benchmarkChartGood": 9,
+            "benchmarkChartColor": "Yellow",
+            "rationaleCondition": "Visibility warrants moderate concern at Acadia NP. This status is based on <a href='https://www.nps.gov/subjects/air/analysis-methods.htm'>NPS Air Resources Division benchmarks</a> and the 2011–2015 estimated visibility on mid-range days of 11.6 deciviews (dv), which is 4.4 dv above the estimated natural condition of 7.2 dv.",
+            "rationaleTrend": "For 2006–2015, the trend in visibility at Acadia NP improved on the 20% clearest and 20% haziest days, resulting in an overall improving visibility trend (IMPROVE Monitor ID: ACAD1, ME). The Clean Air Act visibility goal requires visibility improvement on the 20% haziest days, with no degradation on the 20% clearest days.",
+            "rationaleConfidence": "The degree of confidence at Acadia NP is is high because there is an on-site or nearby visibility monitor."
+          },
+          {
+            "year": 2001,
+            "conditionStatus": "Warrants Moderate Concern",
+            "conditionTrend": "Relatively Unchanged",
+            "conditionConfidence": "High Confidence",
+            "conditionSummaryCombined": "concern-unchanging-high",
+            "benchmarkChartYAxisLabel": "Haze Index, dv",
+            "benchmarkChartValue": 11.5,
+            "benchmarkChartConcern": 15,
+            "benchmarkChartAverage": 12,
+            "benchmarkChartGood": 9,
+            "benchmarkChartColor": "Yellow",
+            "rationaleCondition": "Visibility warrants moderate concern at Acadia NP. This status is based on <a href='https://www.nps.gov/subjects/air/analysis-methods.htm'>NPS Air Resources Division benchmarks</a> and the 2011–2015 estimated visibility on mid-range days of 11.6 deciviews (dv), which is 4.4 dv above the estimated natural condition of 7.2 dv.",
+            "rationaleTrend": "For 2006–2015, the trend in visibility at Acadia NP improved on the 20% clearest and 20% haziest days, resulting in an overall improving visibility trend (IMPROVE Monitor ID: ACAD1, ME). The Clean Air Act visibility goal requires visibility improvement on the 20% haziest days, with no degradation on the 20% clearest days.",
+            "rationaleConfidence": "The degree of confidence at Acadia NP is is high because there is an on-site or nearby visibility monitor."
+          },
+          {
+            "year": 2002,
+            "conditionStatus": "Warrants Moderate Concern",
+            "conditionTrend": "Relatively Unchanged",
+            "conditionConfidence": "High Confidence",
+            "conditionSummaryCombined": "concern-unchanging-high",
+            "benchmarkChartYAxisLabel": "Haze Index, dv",
+            "benchmarkChartValue": 11.5,
+            "benchmarkChartConcern": 15,
+            "benchmarkChartAverage": 12,
+            "benchmarkChartGood": 9,
+            "benchmarkChartColor": "Yellow",
+            "rationaleCondition": "Visibility warrants moderate concern at Acadia NP. This status is based on <a href='https://www.nps.gov/subjects/air/analysis-methods.htm'>NPS Air Resources Division benchmarks</a> and the 2011–2015 estimated visibility on mid-range days of 11.6 deciviews (dv), which is 4.4 dv above the estimated natural condition of 7.2 dv.",
+            "rationaleTrend": "For 2006–2015, the trend in visibility at Acadia NP improved on the 20% clearest and 20% haziest days, resulting in an overall improving visibility trend (IMPROVE Monitor ID: ACAD1, ME). The Clean Air Act visibility goal requires visibility improvement on the 20% haziest days, with no degradation on the 20% clearest days.",
+            "rationaleConfidence": "The degree of confidence at Acadia NP is is high because there is an on-site or nearby visibility monitor."
+          }
+        ],
+        "monitoringSites": [
+          {
+            "name":"IMPROVE: ACAD1",
+            "trendCharts": [
+              {
+                "name":"Visbility on Haziest and Clearest Days",
+                "yAxisLabel": "Haze Index, dv",
+                "variableLines": [
+                  {
+                    "label": "Clearest Days",
+                    "annualValues": [
+                      {
+                        "year": 2000,
+                        "value": 8.0
+                      },
+                      {
+                        "year": 2001,
+                        "value": 8.1
+                      },
+                      {
+                        "year": 2002,
+                        "value": 8.2
+                      },
+                      {
+                        "year": 2003,
+                        "value": 8.3
+                      },
+                      {
+                        "year": 2004,
+                        "value": 9.0
+                      },
+                      {
+                        "year": 2005,
+                        "value": 10.5
+                      }
+                    ]
+                  },
+                  {
+                    "label": "Haziest Days",
+                    "annualValues": [
+                      {
+                        "year": 2000,
+                        "value": 8.0
+                      },
+                      {
+                        "year": 2001,
+                        "value": 8.1
+                      },
+                      {
+                        "year": 2002,
+                        "value": 8.2
+                      },
+                      {
+                        "year": 2003,
+                        "value": 8.3
+                      },
+                      {
+                        "year": 2004,
+                        "value": 9.0
+                      },
+                      {
+                        "year": 2005,
+                        "value": 10.5
+                      }
+                    ]
+                  }
+                ],
+                "trendLines": [
+                  {
+                    "year": 2000,
+                    "lines": [
+                      {
+                        "label": "Theil trend line slope = -0.18 dv/yr significant trend",
+                        "slope": -0.18,
+                        "pvalue": 0.05
+                      },
+                      {
+                        "label": "Some other trend line",
+                        "slope": 2,
+                        "pvalue": 1
+                      }
+                    ]
+                  },
+                  {
+                    "year": 2001,
+                    "lines": [
+                      {
+                        "label": "Theil trend line slope = -0.5 dv/yr significant trend",
+                        "slope": -0.5,
+                        "pvalue": 0.2
+                      },
+                      {
+                        "label": "Some other trend line",
+                        "slope": 2,
+                        "pvalue": 1
+                      }
+                    ]
+                  }
+                ],
+                "constantLines": [
+                  {
+                    "label": "Natural Condition, Haziest Days",
+                    "value": 12
+                  },
+                  {
+                    "label": "Natural Condition, Clearest Days",
+                    "value": 5
+                  }
+                ]
+              },
+              {
+                "name":"Visbility on Clearest Days",
+                "yAxisLabel": "Haze Index, dv",
+                "variableLines": [
+                  {
+                    "label": "Clearest Days",
+                    "annualValues": [
+                      {
+                        "year": 2000,
+                        "value": 8.0
+                      },
+                      {
+                        "year": 2001,
+                        "value": 8.1
+                      },
+                      {
+                        "year": 2002,
+                        "value": 8.2
+                      },
+                      {
+                        "year": 2003,
+                        "value": 8.3
+                      },
+                      {
+                        "year": 2004,
+                        "value": 9.0
+                      },
+                      {
+                        "year": 2005,
+                        "value": 10.5
+                      }
+                    ]
+                  }
+                ],
+                "trendLines": [
+                  {
+                    "year": 2000,
+                    "lines": [
+                      {
+                        "label": "Theil trend line slope = -0.18 dv/yr significant trend",
+                        "slope": -0.18,
+                        "pvalue": 0.05
+                      },
+                      {
+                        "label": "Some other trend line",
+                        "slope": 2,
+                        "pvalue": 1
+                      }
+                    ]
+                  },
+                  {
+                    "year": 2001,
+                    "lines": [
+                      {
+                        "label": "Theil trend line slope = -0.5 dv/yr significant trend",
+                        "slope": -0.5,
+                        "pvalue": 0.2
+                      },
+                      {
+                        "label": "Some other trend line",
+                        "slope": 2,
+                        "pvalue": 1
+                      }
+                    ]
+                  }
+                ],
+                "constantLines": [
+                  {
+                    "label": "Natural Condition, Haziest Days",
+                    "value": 12
+                  },
+                  {
+                    "label": "Natural Condition, Clearest Days",
+                    "value": 5
+                  }
+                ]
+              }
+            ],
+            "compositionCharts": [
+              {
+                "name": "Clearest Days by Year",
+                "yAxisLabel": "Light Extinction, 1/Mm",
+                "variableLines": [
+                  {
+                    "label": "Coarse Mass",
+                    "annualValues": [
+                      {
+                        "year": 2000,
+                        "value": 10
+                      },
+                      {
+                        "year": 2001,
+                        "value": 11
+                      },
+                      {
+                        "year": 2002,
+                        "value": 15
+                      }
+                    ]
+                  },
+                  {
+                    "label": "Fine Sea Salt",
+                    "annualValues": [
+                      {
+                        "year": 2000,
+                        "value": 20
+                      },
+                      {
+                        "year": 2001,
+                        "value": 25
+                      },
+                      {
+                        "year": 2002,
+                        "value": 17
+                      }
+                    ]
+                  },
+                  {
+                    "label": "Fine Soil",
+                    "annualValues": [
+                      {
+                        "year": 2000,
+                        "value": 0.5
+                      },
+                      {
+                        "year": 2001,
+                        "value": 0.75
+                      },
+                      {
+                        "year": 2002,
+                        "value": 0.20
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Haziest Days by Year",
+                "yAxisLabel": "Light Extinction, 1/Mm",
+                "variableLines": [
+                  {
+                    "label": "Coarse Mass",
+                    "annualValues": [
+                      {
+                        "year": 2000,
+                        "value": 10
+                      },
+                      {
+                        "year": 2001,
+                        "value": 11
+                      },
+                      {
+                        "year": 2002,
+                        "value": 15
+                      }
+                    ]
+                  },
+                  {
+                    "label": "Fine Sea Salt",
+                    "annualValues": [
+                      {
+                        "year": 2000,
+                        "value": 20
+                      },
+                      {
+                        "year": 2001,
+                        "value": 25
+                      },
+                      {
+                        "year": 2002,
+                        "value": 17
+                      }
+                    ]
+                  },
+                  {
+                    "label": "Fine Soil",
+                    "annualValues": [
+                      {
+                        "year": 2000,
+                        "value": 0.5
+                      },
+                      {
+                        "year": 2001,
+                        "value": 0.75
+                      },
+                      {
+                        "year": 2002,
+                        "value": 0.20
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "ozone": {
+      },
+      "sulfurDeposition": {
+      }
+    ]
+  }
