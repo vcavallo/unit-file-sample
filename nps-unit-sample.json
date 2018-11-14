@@ -59,6 +59,8 @@
               {
                 "name":"Visbility on Haziest and Clearest Days",
                 "yAxisLabel": "Haze Index, dv",
+                "yAxisMax": 15,
+                "yAxisStepWidth": 1,
                 "variableLines": [
                   {
                     "label": "Clearest Days",
@@ -124,11 +126,25 @@
                     "year": 2000,
                     "lines": [
                       {
+                        "trendType": "",
                         "label": "Theil trend line slope = -0.18 dv/yr significant trend",
                         "slope": -0.18,
                         "pvalue": 0.05
                       },
                       {
+                        "trendType": "10year",
+                        "label": "A 10-year trend",
+                        "slope": 2,
+                        "pvalue": 1
+                      },
+                      {
+                        "trendType": "long",
+                        "label": "A long-term trend",
+                        "slope": 2,
+                        "pvalue": 1
+                      },
+                      {
+                        "trendType": "",
                         "label": "Some other trend line",
                         "slope": 2,
                         "pvalue": 1
@@ -165,6 +181,8 @@
               {
                 "name":"Visbility on Clearest Days",
                 "yAxisLabel": "Haze Index, dv",
+                "yAxisMax": 15,
+                "yAxisStepWidth": 1,
                 "variableLines": [
                   {
                     "label": "Clearest Days",
@@ -244,6 +262,8 @@
               {
                 "name": "Clearest Days by Year",
                 "yAxisLabel": "Light Extinction, 1/Mm",
+                "yAxisMax": 15,
+                "yAxisStepWidth": 1,
                 "variableLines": [
                   {
                     "label": "Coarse Mass",
@@ -301,6 +321,8 @@
               {
                 "name": "Haziest Days by Year",
                 "yAxisLabel": "Light Extinction, 1/Mm",
+                "yAxisMax": 15,
+                "yAxisStepWidth": 1,
                 "variableLines": [
                   {
                     "label": "Coarse Mass",
